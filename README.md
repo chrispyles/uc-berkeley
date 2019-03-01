@@ -1,1 +1,2 @@
-# uc-berkeley
+# UC Berkeley
+This repository contains some of the teaching materials that I developed in the course of my studies at UC Berkeley. Beginning in my 2nd year, I got involved at the Division of Data Sciences as a connector assistant; as a part of this position, I helped to develop materials for the course [L&S 88: Reproducibility and Open Science](https://classes.berkeley.edu/content/2019-spring-ls-88-002-sem-002). The materials that I developed or had a hand in developing can be found in my [ls88-sp19 folder](./ls88-sp19).
